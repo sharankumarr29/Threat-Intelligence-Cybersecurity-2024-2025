@@ -102,13 +102,6 @@ Security awareness training
 
 Backup and incident response planning
 
-📁 Project Structure
-Cybersecurity-Threat-Intelligence-Report/
-│
-├── Threat_Intelligence_Report.pdf
-├── Threat_Intelligence_Report.docx
-└── README.md
-
 📚 Skills Demonstrated
 
 Threat intelligence & research
@@ -134,8 +127,9 @@ Include detection & response workflows
 👨‍💻 Author
 
 Sharan Kumar R
+
 Cybersecurity Analyst Intern
-Interested in Cybersecurity, Threat Intelligence & Ethical Hacking
+
 
 📎 References
 
